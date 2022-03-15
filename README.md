@@ -13,15 +13,15 @@ I used several models such as Decision Tree, Random Forest, KNN and XGB Classifi
 ## [3. Spaceship Titanic Classification Prediction](https://github.com/teolj96/Data-Science-Portfolio/blob/main/Spaceship%20Titanic%20(GridSearch%2C%20Pipeline%2C%20LogReg%2C%20XGB%2C%20SVM%2C%20NN%2C%20RandomForest%2C).ipynb)
 The Spacehip Titanic dataset is a [Kaggle](https://www.kaggle.com/c/spaceship-titanic/data) competition dataset based on the famous original Titanic dataset, this time set in future. The goal of the project was explore which features influence the most a persons ability to get transported and create the best possible model which could predict that. Through data exploration and data visualization I found out that:
 
-..* Being from planet Europa
+  * Being from planet Europa
 
-..* Being in Cryosleep
+  * Being in Cryosleep
 
-..* Traveling to Trappist or Cancri
+  * Traveling to Trappist or Cancri
 
-..* Being of younger age
+  * Being of younger age
 
-..* Being richer/spending more
+  * Being richer/spending more
 
 Gives a person better chance of being transported on the spaceship.
 
