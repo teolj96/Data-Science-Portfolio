@@ -56,6 +56,7 @@ Graph 4: Correlation heatmap
 
 I was able to get very similiar score of around 80%, the best being XGB Classifier by a small margain. I was not able to go much more than 80% with optimization. The only thing that might have helped was reducing the number of total features in the final dataset.
 
+
 ## [2. Wine Quality Classification Prediction](https://github.com/teolj96/Data-Science-Portfolio/blob/main/Wine%20Classification%20(StandardScaler%2C%20ImbalancedLearn%2C%20SMOTE%2C%20XGB).ipynb)
 
 ## About
@@ -95,6 +96,7 @@ Graph 4: Piechart showing the inbalance in the labels
 | XGB Classifier           | 0.8459      |
 
 In the end the Random Forest Classifier proved to be the most successful with an accuracy score of 0,86. The next best model was the XGB Classifier with an accuracy score of 0,84. The KNN model with only 1 neighbour showed a good accuracy score but such model would have a high bias and would not be very realistic, thus it isn't of use to us.
+
 
 ## [3. XGB Regressor Time Series Project](https://github.com/teolj96/Data-Science-Portfolio/blob/main/Store%20sales%20time%20series%20(Data%20Cleaning%2C%20Groupby%2C%20EDA%2C%20XGBoost).ipynb)
 
