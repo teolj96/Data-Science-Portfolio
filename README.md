@@ -32,15 +32,15 @@ Gives a person better chance of being transported on the spaceship.
 
 Graph 1: There is a higher change to be transported if you are from planet Europa
 
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/02.jpg "Graphs 2")
+![alt text](pictures/02.jpg "Graphs 2")
 
 Graph 2: Travelling to TRAPPIST or Cancri gives you higher change to be transported
 
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/03.jpg "Graphs 3")
+![alt text](pictures/03.jpg "Graphs 3")
 
 Graph 3: The age distribution of people who were or were not transported
 
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/04.jpg "Graphs 4")
+![alt text](pictures/04.jpg "Graphs 4")
 
 Graph 4: Correlation heatmap
 
@@ -70,19 +70,19 @@ In this project I used a [Kaggle](https://www.kaggle.com/yasserh/wine-quality-da
 * Model optimization
 
 ## Some key graphs
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/wine_02.jpg "Graph 1")
+![alt text](pictures/wine_02.jpg "Graph 1")
 
 Graph 1: The overall distribution of the features was generally equal
 
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/wine_03.jpg "Graph 2")
+![alt text](pictures/wine_03.jpg "Graph 2")
 
 Graph 2: But there were still a lot of outliers that needed to be cleaned
 
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/wine_04.jpg "Graph 3")
+![alt text](pictures/wine_04.jpg "Graph 3")
 
 Graph 3: Correlation heatmap
 
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/wine_01.jpg "Graph 4")
+![alt text](pictures/wine_01.jpg "Graph 4")
 
 Graph 4: Piechart showing the inbalance in the labels
 
@@ -116,19 +116,19 @@ In this project I analysed the Store Sales [Kaggle](https://www.kaggle.com/c/sto
 * City of Ouito has the highest sales numbers
 
 ## Key graphs
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/sales_02.jpg "Graph 1")
+![alt text](pictures/sales_02.jpg "Graph 1")
 
 Graph 1: Sales per month
 
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/sales_03.jpg "Graph 2")
+![alt text](pictures/sales_03.jpg "Graph 2")
 
 Graph 2: Sales by store family
 
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/sales_04.jpg "Graph 3")
+![alt text](pictures/sales_04.jpg "Graph 3")
 
 Graph 3: Sales by state
 
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/sales_05.jpg "Graph 4")
+![alt text](pictures/sales_05.jpg "Graph 4")
 
 Graph 4: Linear model visualized
 
