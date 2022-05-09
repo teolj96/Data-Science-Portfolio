@@ -28,7 +28,7 @@ Through data exploration and data visualization I found out that:
 Gives a person better chance of being transported on the spaceship.
 
 ## Some key graphs
-![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/01.JPG "Graphs 1")
+![alt text](https://github.com/teolj96/Data-Science-Portfolio/blob/main/pictures/01.JPG "Graphs 1")
 
 Graph 1: There is a higher change to be transported if you are from planet Europa
 
