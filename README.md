@@ -16,7 +16,7 @@ Click the title for more information.
 
 ## Key findings
 * Motor yachts are the most popular type of boat, followed by sailing boats and sport boats
-* Germany is the most popular location for boat brokers, followed by Switzerland and Italy. For the fact that Switzerlands does't have access to the sea, this is very impressive
+* Germany is the most popular location for boat brokers, followed by Switzerland and Italy. For the fact that Switzerlands doesn't have access to the sea, this is very impressive
 * Sunseeker manufactures the most expensive yachts
 * Price is highly correlated with Length and Width, which makes sense because the boat size is the strongest determining factor of the price
 
