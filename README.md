@@ -21,19 +21,19 @@ Click the title for more information.
 * Price is highly correlated with Length and Width, which makes sense because the boat size is the strongest determining factor of the price
 
 ## Some key graphs
-![alt text](https://github.com/teolj96/Boats_Project_repo/blob/main/pictures/boat_model.jpg "Graph 1")
+![alt text](pictures/boat_model.jpg "Graph 1")
 
 Picture 1: Most popular boat brands
 
-![alt text](https://github.com/teolj96/Boats_Project_repo/blob/main/pictures/boat_type.jpg "Graph 2")
+![alt text](pictures/boat_type.jpg "Graph 2")
 
 Picture 2: Most popular types of boat
 
-![alt text](https://github.com/teolj96/Boats_Project_repo/blob/main/pictures/price_material.jpg "Graph 3")
+![alt text](pictures/price_material.jpg "Graph 3")
 
 Picture 3: Boat price by material
 
-![alt text](https://github.com/teolj96/Boats_Project_repo/blob/main/pictures/lin_reg.jpg "Graph 4")
+![alt text](pictures/lin_reg.jpg "Graph 4")
 
 Picture 4: Linear regression model
 
